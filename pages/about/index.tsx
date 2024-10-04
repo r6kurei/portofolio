@@ -36,7 +36,7 @@ export default function About() {
         {...contentAnimation}
         className="relative order-1 my-10 w-3/4 md:order-2 md:my-0 md:w-1/4">
         <p className="text-md mb-4 text-justify text-base font-light">
-          My name is Rikurei, you can call me Riku. I was born in West Java,
+          My name is Rikurei, you can call me Riku. I was born in WestJava,
           Indonesia. I am a 17yo programmer, hope you all have good day &#128513;
         </p>
         <ul className="list-inside list-disc">
@@ -45,7 +45,7 @@ export default function About() {
             internet.
           </li>
           <li className="text-md font-light text-primary-light">
-            I &#128157; to watch anime, read comic, and being cosplayer.
+            I &#128157; to watch anime, read comic, and sleep.
           </li>
           <li className="text-md font-light text-primary-light">
             I &#128157; to connect with more people.
