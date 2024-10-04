@@ -45,7 +45,7 @@ export default function About() {
             internet.
           </li>
           <li className="text-md font-light text-primary-light">
-            I &#128157; to watch anime, read comic, and sleep.
+            I &#128157; to watch anime, read comic, and being cosplayer.
           </li>
           <li className="text-md font-light text-primary-light">
             I &#128157; to connect with more people.
