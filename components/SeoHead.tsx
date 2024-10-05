@@ -3,16 +3,16 @@ import { useRouter } from 'next/router';
 
 // Default value for some meta data
 const defaultMeta = {
-  title: 'ArugaZ',
-  siteName: 'ArugaZ',
-  desc: 'ArugaZ is one of the developers in Indonesia. My name is Arga Astri Bimantara, feel free to say hi.',
+  title: 'Rikurei',
+  siteName: 'Rikurei',
+  desc: 'Rikurei is one of the developers in Indonesia. My name is Rikurei, feel free to say hi.',
   // change base url of your web (without '/' at the end)
-  url: 'https://arugaz.me',
+  url: 'https://r6kurei.my.id',
   type: 'website',
   // change to follow, index if you want to
   robots: 'nofollow, noindex',
-  image: 'https://arugaz.me/images/pages/profile.jpg',
-  author: 'ArugaZ',
+  image: 'https://r6kurei.my.id/images/pages/profile.jpg',
+  author: 'Rikurei',
 };
 
 /**
@@ -69,7 +69,7 @@ export default function SeoHead(props: {
       <meta property="og:image" content={meta.image} />
       {/* Twitter */}
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:site" content="@arugaz_id" />
+      <meta name="twitter:site" content="@ky6taka" />
       <meta name="twitter:title" content={meta.title} />
       <meta name="twitter:description" content={meta.desc} />
       <meta name="twitter:image" content={meta.image} />
